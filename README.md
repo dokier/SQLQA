@@ -1,5 +1,5 @@
 # SQLQA
-SQL QA is a SSRS Report to look at various settings and configurations of your SQL Server Instance on the fly including the following sections. It will also highlight in yellow or grey things to watch out.
+SQL QA is a SSRS Report to look at various settings and configurations of your SQL Server Instance on the fly including the following sections. It will also highlight in yellow or grey things to watch out. You will need Report Builder 2016 or SSRS 2016 to be able to use this report.
 
 # Instance Details
 Instance Name, Edition, SQLVersion, ServicePack, Machine Type, Auth Mode, TCP Port, Install Date, Last Start Date
